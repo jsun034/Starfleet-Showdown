@@ -12,3 +12,7 @@ https://drive.google.com/open?id=1w2SGZrojDogvYr1QLm1CcNEsTJrm-Hds)
 * See Report.docx for implementation details
 * See Scrum Sheet.xlsx for individual contribution details
 
+## Photos
+<p align="center"><img src="photos/menu.png" /></p>
+<p align="center"><img src="photos/playerMenu.png" /></p>
+<p align="center"><img src="photos/4-player.png" /></p>
