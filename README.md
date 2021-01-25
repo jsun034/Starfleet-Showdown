@@ -7,7 +7,7 @@ Starfleet Showdown is a space-themed aerial dog-fighting simulator where you and
 * 2-4 player mode is PVP.
 
 ## Resources
-https://drive.google.com/open?id=1w2SGZrojDogvYr1QLm1CcNEsTJrm-Hds)
+https://drive.google.com/open?id=1w2SGZrojDogvYr1QLm1CcNEsTJrm-Hds
 * See GameDemo.mp4 for gameplay
 * See Starfleet Showdown.zip for unity project and windows game executable
 * See Report.docx for implementation details
